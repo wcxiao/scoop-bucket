@@ -1,6 +1,6 @@
 {
-	"version": "1.7.6",
-    "description": "专业的屏幕截取软件，提升办公效率",
+    "version": "1.7.6",
+    "description": "professional screen capture application，promote office work测试",
     "homepage": "https://verycapture.com/",
     "license": "shareware",
     "notes": "your captured files save in \"$home\\Documents\VeryCapture\"",
