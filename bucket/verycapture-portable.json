@@ -1,0 +1,23 @@
+{
+	"version": "1.7.6",
+    "description": "专业的屏幕截取软件，提升办公效率",
+    "homepage": "https://verycapture.com/",
+    "license": "shareware",
+    "notes": "your captured files save in \"$home\\Documents\VeryCapture\"",
+    "url": "https://cdn.9xiaoxiao.com/joyshare/verycapture1.7.6.zip",
+    "hash": "FF7AAA6CCA61F8404AE4A414126871C168B646A16907EE7668D9A99D4A96851A"
+    "extract_dir": "verycapture",
+    "shortcuts": [
+        [
+            "verycapture.exe",
+            "VeryCapture"
+        ]
+    ],
+    "checkver": {
+        "url": "https://verycapture.com/download.html",
+        "regex": "v([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://cdn.9xiaoxiao.com/joyshare/verycapture$version.zip",
+    }
+}
