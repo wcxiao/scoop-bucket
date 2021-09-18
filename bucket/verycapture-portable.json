@@ -18,6 +18,6 @@
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://cdn.9xiaoxiao.com/joyshare/verycapture$version.zip",
+        "url": "https://cdn.9xiaoxiao.com/joyshare/verycapture$version.zip"
     }
 }
