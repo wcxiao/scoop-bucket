@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z",
-            "hash": "d650d34f95e7e46b59702c2ccdc8bffdf7c12e092e614861e39843d6b49cff28",
+            "hash": "3920ADA467DEC810BE99E3178ECD39216548D65D7A40D860E02AF2EDAF4CC73D",
             "extract_dir": "mingw64"
         },
         "32bit": {
