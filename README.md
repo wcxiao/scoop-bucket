@@ -8,4 +8,5 @@ collect some useful apps
 | TablacusExplorer | None |
 | OracleJDK8 | OracleJDK8u202 |
 |VeryCapture|支持滚动截图，OCR|
-
+|mingw64-gcc73||
+|mingw64-gcc81||
