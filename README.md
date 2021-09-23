@@ -10,3 +10,4 @@ collect some useful apps
 |VeryCapture|支持滚动截图，OCR|
 |mingw64-gcc73||
 |mingw64-gcc81||
+|Iris||
