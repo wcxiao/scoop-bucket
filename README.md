@@ -5,9 +5,14 @@ collect some useful apps
 
 | name | 描述 |
 | :-----:| :----: |
-| TablacusExplorer | None |
+| TablacusExplorer ||
 | OracleJDK8 | OracleJDK8u202 |
 |VeryCapture|支持滚动截图，OCR|
 |mingw64-gcc73||
 |mingw64-gcc81||
 |Iris||
+|RegistryChangesView|NirSoft|
+|RegistryFinder|quick find registry key, freeware|
+|scoop-completion|来源于bucket dorado|
+|winlibs-mingw||
+|yesplaymusic|基于electron的网易云音乐第三方客户端|
