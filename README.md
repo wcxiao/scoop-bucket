@@ -17,3 +17,4 @@ collect some useful apps
 |scoop-completion|来源于bucket dorado|
 |winlibs-mingw||
 |yesplaymusic|基于electron的网易云音乐第三方客户端|
+|folderchangesview||
