@@ -1,5 +1,5 @@
 # scoop-bucket
-collect some useful apps
+collect some useful apps from other buckets.
 
 ## app list
 
@@ -18,3 +18,4 @@ collect some useful apps
 |winlibs-mingw||
 |yesplaymusic|基于electron的网易云音乐第三方客户端|
 |folderchangesview||
+|snipaste-beta|copy from dorado|
