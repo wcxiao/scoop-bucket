@@ -19,3 +19,4 @@ collect some useful apps from other buckets.
 |yesplaymusic|基于electron的网易云音乐第三方客户端|
 |folderchangesview||
 |snipaste-beta|copy from dorado|
+|cloudmusic|网易云音乐|
