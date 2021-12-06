@@ -22,4 +22,4 @@ collect some useful apps from other buckets.
 |cloudmusic|网易云音乐|
 |handle|sysinternals|
 |Process Monitor|sysinternal|
-|RevoUninstaller Free-Portable|免费版|
+|RevoUninstaller Free-Portable|免费版，copy from extras|
