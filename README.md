@@ -23,5 +23,5 @@ collect some useful apps from other buckets.
 |handle|sysinternals|
 |Process Monitor|sysinternal|
 |RevoUninstaller Free-Portable|免费版，copy from extras|
-|v2rayn|copy from other bucket|
+|v2rayn-core |version 4.20|
 
