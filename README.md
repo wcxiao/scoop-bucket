@@ -25,5 +25,4 @@ collect some useful apps from other buckets.
 |RevoUninstaller Free-Portable|免费版，copy from extras|
 |v2rayn-core |version 4.20|
 |typora-beta|最后一个beta版本|
-|Quicker|效率工具|
 

@@ -1,11 +1,11 @@
 {
-    "version": "1.7.22",
+    "version": "1.8.1",
     "description": "a professional screen capture application，promote office work",
     "homepage": "https://verycapture.com",
     "license": "shareware",
     "notes": "your captured files save in: \"$home\\Documents\\VeryCapture\"",
-    "url": "https://cdn.9xiaoxiao.com/joyshare/verycapture1.7.22.zip",
-    "hash": "5acf1877abe9686686039fb60c201b3b31c51062d4bc20e5bc6c4ddd7325825f",
+    "url": "https://cdn.verycapture.com/joyshare/verycapture1.8.1.zip",
+    "hash": "89593258fab08e7f77c9be423036d8750b41c491ef0dec90f24dc20915c3e37d",
     "extract_dir": "verycapture",
     "shortcuts": [
         [
@@ -14,10 +14,10 @@
         ]
     ],
     "checkver": {
-        "url": "https://verycapture.com/download.html/",
+        "url": "https://verycapture.com/cn/download.html",
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://cdn.9xiaoxiao.com/joyshare/verycapture$version.zip"
+        "url": "https://cdn.verycapture.com/joyshare/verycapture$version.zip"
     }
 }
