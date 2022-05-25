@@ -25,4 +25,5 @@ collect some useful apps from other buckets.
 |RevoUninstaller Free-Portable|免费版，copy from extras|
 |v2rayn-core |version 4.20|
 |typora-beta|最后一个beta版本|
+|anki|启动时自动设置代理|
 
