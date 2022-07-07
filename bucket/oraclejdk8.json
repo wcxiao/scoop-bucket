@@ -1,6 +1,6 @@
 {
-    "description": "Oracle JDK 8u202 (PSU), last free version",
     "homepage": "https://www.oracle.com/technetwork/java/javase/overview/index.html",
+    "description": "Oracle JDK 8u202 (PSU), last free version",
     "version": "8u202-b08",
     "license": "https://www.oracle.com/technetwork/java/javase/terms/license",
     "architecture": {

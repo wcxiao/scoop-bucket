@@ -1,7 +1,7 @@
 {
-    "version": "1.9.1-beta_r321",
-    "description": "Regshot is a free and open source registry and file compare utility",
     "homepage": "https://sourceforge.net/projects/regshot/",
+    "description": "Regshot is a free and open source registry and file compare utility",
+    "version": "1.9.1-beta_r321",
     "license": "LGPL-2.0-only",
     "url": "https://downloads.sourceforge.net/project/regshot/regshot/1.9.1-beta/Regshot-1.9.1-beta_r321.7z",
     "hash": "sha1:f01136a342916987299caae254e8d56f79973791",

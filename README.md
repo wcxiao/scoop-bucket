@@ -5,24 +5,24 @@ collect some useful apps from other buckets.
 
 | name | 描述 |
 | :-----:| :----: |
-|TablacusExplorer||
-|OracleJDK8|OracleJDK8u202|
-|VeryCapture|支持滚动截图，OCR|
+|anki|启动时自动设置代理|
+|folderchangesview|nirsoft|
+|handle|sysinternals|
+|iris||
 |mingw64-gcc73||
 |mingw64-gcc81||
-|Iris||
-|RegistryChangesView|NirSoft|
-|RegistryFinder|quick find registry key, freeware|
+|neteasecloudmusic|网易云音乐|
+|oraclejdk8|OracleJDK8u202|
+|processmonitor|sysinternal|
+|registrychangesciew|NirSoft|
+|registry-finder|quick find registry key, freeware|
 |regshot|a free and open source registry and file compare utility|
-|winlibs-mingw||
-|yesplaymusic|基于electron的网易云音乐第三方客户端|
-|folderchangesview||
+|revouninstaller-portable|免费版，copy from extras|
 |snipaste-beta|copy from dorado|
-|cloudmusic|网易云音乐|
-|handle|sysinternals|
-|Process Monitor|sysinternal|
-|RevoUninstaller Free-Portable|免费版，copy from extras|
-|v2rayn-core |version 4.20|
+|tablacusexplorer||
 |typora-beta|最后一个beta版本|
-|anki|启动时自动设置代理|
-
+|v2rayn-core |不需要额外安装依赖v2ray/xray|
+|verycapture-portable|支持滚动截图，OCR|
+|winlibs-mingw-llvm-ucrt||
+|winlibs-mingw-msvcrt|without llvm|
+|winlibs-mingw-ucrt|without llvm|
