@@ -17,12 +17,11 @@ collect some useful apps from other buckets.
 |registrychangesciew|NirSoft|
 |registry-finder|quick find registry key, freeware|
 |regshot|a free and open source registry and file compare utility|
-|revouninstaller-portable|免费版，copy from extras|
 |snipaste-beta|copy from dorado|
 |tablacusexplorer||
 |typora-beta|最后一个beta版本|
 |v2rayn-core |不需要额外安装依赖v2ray/xray|
-|verycapture-portable|支持滚动截图，OCR|
+|verycapture|支持滚动截图，OCR|
 |winlibs-mingw-llvm-ucrt||
 |winlibs-mingw-msvcrt|without llvm|
 |winlibs-mingw-ucrt|without llvm|
