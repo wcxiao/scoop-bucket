@@ -25,3 +25,4 @@ collect some useful apps from other buckets.
 |winlibs-mingw-llvm-ucrt||
 |winlibs-mingw-msvcrt|without llvm|
 |winlibs-mingw-ucrt|without llvm|
+|contextmenumanager|右键菜单管理程序|
