@@ -7,12 +7,20 @@
     "hash": "652bb9eb69761040de3e6b068c48752f23e9af1a9045f024c1d67ec2508d3a68",
     "extract_dir": "v2rayN-Core",
     "pre_install": [
-        "foreach ($name in @('guiNConfig.json', 'user-wininet.json')) {",
-        "    if (!(Test-Path \"$persist_dir\\$name\")) {",
-        "        New-Item -Force -Path \"$dir\" -Name $name | Out-Null",
-        "    }",
+        "if (!(Test-Path \"$persist_dir\\user-wininet.json\")) {",
+        "    New-Item -Path \"$dir\\user-wininet.json\" | Out-Null",
+        "}",
+        "if (Test-Path \"$persist_dir\\guiNConfig.json\") {",
+        "    Copy-Item \"$persist_dir\\guiNConfig.json\" \"$dir\\\" | Out-Null",
         "}"
     ],
+    "uninstaller": {
+        "script": [
+            "if (Test-Path \"$dir\\guiNConfig.json\") {",
+            "    Copy-Item \"$dir\\guiNConfig.json\" \"$persist_dir\\\" | Out-Null",
+            "}"
+        ]
+    },
     "shortcuts": [
         [
             "v2rayN.exe",
@@ -21,8 +29,7 @@
     ],
     "persist": [
         "user-wininet.json",
-        "config.json",
-        "guiNConfig.json"
+        "config.json"
     ],
     "checkver": "github",
     "autoupdate": {
